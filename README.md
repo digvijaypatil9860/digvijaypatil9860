@@ -7,7 +7,8 @@
 ### Academic Background
 
 **Batchelor's Degree**
-: Mechanical Engineer form RIT sangali 
+: Mechanical Engineer form RIT (sangali) 
+  + CGPA: 8.30
 
 -------------------------------------
 ### Skills 
