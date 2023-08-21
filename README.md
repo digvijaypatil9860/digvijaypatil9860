@@ -14,10 +14,6 @@
 + Programming:  C & C++,  HTML 
 + Git and GitHub
 --------------------------------------
-###  How to reach me
-[Linkdin](https://www.linkedin.com/in/digvijay-patil-0876a5219) | [Gmail](digvijaypatil9860@gmail.com)
-
--------------------------------------------
 ### Projects
 1. Performance study of Asymmetric Supercapacitor made of Co based nano materials
 2. Automated material handling system 3D design
@@ -28,4 +24,5 @@
 + virtual Internship at Elite Techno group
 + Member of Stark Tech India
 ----------------------------------------------
-   
+###  How to reach me
+[Linkdin](https://www.linkedin.com/in/digvijay-patil-0876a5219) | [Gmail](digvijaypatil9860@gmail.com) 
