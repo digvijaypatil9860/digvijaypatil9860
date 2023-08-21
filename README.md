@@ -10,11 +10,11 @@
 : Mechanical Engineer form RIT sangali 
 
 -------------------------------------
-### ⚡Skills 
-+ Programming: C, C++, HTML
+### Skills 
++ Programming: C C++ HTML 
 + Git and GitHub
 --------------------------------------
-### 📫 How to reach me
+###  How to reach me
 https://www.linkedin.com/in/digvijay-patil-0876a5219 
 
 -------------------------------------------
