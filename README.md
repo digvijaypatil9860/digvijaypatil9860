@@ -11,7 +11,7 @@
 
 -------------------------------------
 ### Skills 
-+ Programming: C C++ HTML 
++ Programming:  C & C++,  HTML 
 + Git and GitHub
 --------------------------------------
 ###  How to reach me
