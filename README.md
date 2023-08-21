@@ -4,7 +4,7 @@
 🌱 I’m currently learning: Full Stack Web Development with JAVA
 
 -------------------------------------
-### Academic Backgroung
+### Academic Background
 
 **Batchelor's Degree**
 : Mechanical Engineer form RIT sangali 
