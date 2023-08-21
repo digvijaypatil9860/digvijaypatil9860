@@ -15,8 +15,8 @@
 + Git and GitHub
 --------------------------------------
 ###  How to reach me
-![Linkdin](https://www.linkedin.com/in/digvijay-patil-0876a5219) 
-![Gmail](digvijaypatil9860@gmail.com)
+[Linkdin](https://www.linkedin.com/in/digvijay-patil-0876a5219) 
+[Gmail](digvijaypatil9860@gmail.com)
 
 -------------------------------------------
 ### Projects
